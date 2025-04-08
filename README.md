@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-1308&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-1308" /> </p>
 
-- 🤝 I’m working with **Persistent Systems**
+- 🤝 Working with **Persistent Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunal-1308](https://github.com/kunal-1308)
 
-- 📫 How to reach me **bhapkarkunal@gmail.com**
+- 📫 Reach me @ **bhapkarkunal@gmail.com**
 
 - ⚡ Fun fact **I am a GAMER!**
 
