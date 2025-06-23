@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-1308&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-1308" /> </p>
 
-- 🤝 Working with **Persistent Systems**
+- 🤝 Working with **EPAM Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunal-1308](https://github.com/kunal-1308)
 
